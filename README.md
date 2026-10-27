@@ -9,9 +9,9 @@
 | Proyecto | Qué es |
 |---|---|
 | [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 600 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
-| [**All4Plans**](https://pablo1091427-debug.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
+| [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
 | [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
-| [**Mi Día**](https://pablo1091427-debug.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
+| [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
 
 ### 🧰 También trabajo en (repos privados)
 
