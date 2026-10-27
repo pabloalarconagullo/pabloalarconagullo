@@ -37,4 +37,5 @@
 
 ### 📫 Contacto
 
-A través de [graduadosocialred.es](https://graduadosocialred.es).
+- 🌐 [graduadosocialred.es](https://graduadosocialred.es)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alarconagullopablo/)
