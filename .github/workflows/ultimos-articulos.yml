@@ -1,0 +1,26 @@
+name: Últimos artículos del blog
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # cada día a las 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node .github/scripts/ultimos-articulos.mjs
+      - name: Guardar si hay cambios
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Actualizar últimos artículos del blog"
+          git push
