@@ -27,11 +27,22 @@
 
 ### 🧰 También trabajo en (repos privados)
 
-- **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y fijos discontinuos
-- **Jurisprudencia social**: base de conocimiento de la Sala Cuarta del Tribunal Supremo
-- **Clasificador de notificaciones**: LexNET y sedes electrónicas, con cálculo de plazos
+**Para asesorías laborales**
+- **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y control de fijos discontinuos (llamamientos y bolsa)
+- **Registro horario**: PWA para fichar, con panel de RRHH
+- **Clasificador de notificaciones**: LexNET, sedes electrónicas y correo, con cálculo de plazos
+- **Herramientas laborales en HTML**: altas, despidos, plazos y evaluaciones
+- **Simulador de IRPF**: cálculo y panel de la renta
+
+**Normativa y jurisprudencia**
+- **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos y envío por correo
+- **Jurisprudencia social**: base de conocimiento de la Sala Cuarta del Tribunal Supremo y API de sentencias (FastAPI)
 - **LexLaboral**: simulador práctico de Derecho del Trabajo y Procedimiento Laboral
+
+**Utilidades**
 - **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
+- **Actas de reunión**: transcripción local con Whisper y redacción con Claude
+- **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
 
 ### 🛠️ Con qué trabajo
 
