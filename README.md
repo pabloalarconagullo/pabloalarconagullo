@@ -7,11 +7,11 @@
 ### 📝 Últimos artículos en el blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Elecciones Generales del 29-N: guía de permisos retribuidos para votar y cargos en mesas electorales](https://graduadosocialred.es/blog/elecciones-generales-29-noviembre-2026-permisos-votar-mesas-electorales.html)
 - [Real Decreto 847/2026: nuevo reglamento del amianto, con un límite de exposición diez veces más bajo y obligación de identificarlo antes de las obras](https://graduadosocialred.es/blog/real-decreto-847-2026-amianto-nuevo-reglamento.html)
 - [Nuevo Estatuto del Estudiantado Universitario (RD 855/2026): qué cambia para las empresas que acogen estudiantes en prácticas](https://graduadosocialred.es/blog/estatuto-estudiantado-universitario-rd-855-2026-practicas-empresas.html)
 - [Real Decreto-ley 31/2026: dos nuevas IT especiales, nueva base reguladora de la IT, CUME y viudedad de parejas de hecho](https://graduadosocialred.es/blog/real-decreto-ley-31-2026-it-cume-viudedad.html)
 - [Huelga general del 11 de noviembre de 2026: legalidad, nómina, cotización y servicios mínimos](https://graduadosocialred.es/blog/huelga-general-11-noviembre-2026-guia-practica.html)
-- [Ley 4/2026: reducción de jornada más allá del límite de edad en casos de gran discapacidad o gran dependencia, CUME y escolarización y nuevas obligaciones en el sector de los cuidados](https://graduadosocialred.es/blog/ley-4-2026-discapacidad-reduccion-jornada-cume.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Ver todo el blog](https://graduadosocialred.es/blog/)
