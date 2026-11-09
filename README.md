@@ -43,6 +43,8 @@
 - **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
 - **Actas de reunión**: transcripción local con Whisper y redacción con Claude
 - **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
+- **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
+- **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
 
 ### 🛠️ Con qué trabajo
 
