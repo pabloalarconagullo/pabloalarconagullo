@@ -46,6 +46,10 @@
 - **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
 - **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
 
+**Apps y finanzas**
+- **Trading Simulator Pro**: simulador de bolsa personal con precios reales y dinero ficticio
+- **PricePilot**: comparador de precios para Android, con Expo y Supabase
+
 ### 🛠️ Con qué trabajo
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
