@@ -24,6 +24,8 @@
 | [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
 | [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
 | [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
+| [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude |
+| [**Portfolio «Notas al margen»**](https://github.com/pabloalarconagullo/portfolio) | Portfolio de desarrollo web en Next.js 16: el texto habla al cliente y, al margen, se anotan las decisiones técnicas |
 
 ### 🧰 También trabajo en (repos privados)
 
@@ -31,8 +33,14 @@
 - **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y control de fijos discontinuos (llamamientos y bolsa)
 - **Registro horario**: PWA para fichar, con panel de RRHH
 - **Clasificador de notificaciones**: LexNET, sedes electrónicas y correo, con cálculo de plazos
+- **Elementos esenciales del contrato (RD 723/2026)**: genera el documento informativo que la empresa debe entregar al trabajador
 - **Herramientas laborales en HTML**: altas, despidos, plazos y evaluaciones
 - **Simulador de IRPF**: cálculo y panel de la renta
+- **Colegiación**: checklist y formularios para colegiarse como Graduado Social
+
+**Webs**
+- **Web profesional**: servicios laborales, contador de plazos para reclamar, traductor de nómina y calculadora de indemnización por despido
+- **Web corporativa** para una asesoría fiscal, laboral y contable de Elche
 
 **Normativa y jurisprudencia**
 - **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos y envío por correo
@@ -41,7 +49,6 @@
 
 **Utilidades**
 - **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
-- **Actas de reunión**: transcripción local con Whisper y redacción con Claude
 - **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
 - **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
 - **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
@@ -49,6 +56,7 @@
 **Apps y finanzas**
 - **Trading Simulator Pro**: simulador de bolsa personal con precios reales y dinero ficticio
 - **PricePilot**: comparador de precios para Android, con Expo y Supabase
+- **JobPilot AI**: copiloto de búsqueda de empleo (análisis de CV, compatibilidad con ofertas y cartas de presentación)
 
 ### 🛠️ Con qué trabajo
 
