@@ -20,7 +20,7 @@
 
 | Proyecto | Qué es |
 |---|---|
-| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 600 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
+| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 900 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
 | [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
 | [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
 | [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
@@ -50,6 +50,7 @@
 **Utilidades**
 - **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
 - **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
+- **Letra pequeña**: juego diario para adivinar a qué norma del BOE pertenece un artículo
 - **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
 - **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
 
