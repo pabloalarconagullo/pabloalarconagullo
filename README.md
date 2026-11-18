@@ -7,7 +7,7 @@
 ### 📝 Últimos artículos en el blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Real decreto-ley de condiciones laborales transparentes e igualdad retributiva: qué cambia en selección, contratos y nóminas](https://graduadosocialred.es/blog/rdl-condiciones-laborales-transparentes-igualdad-retributiva.html)
+- [Real Decreto-ley 39/2026 de condiciones laborales transparentes e igualdad retributiva: qué cambia en selección, contratos y nóminas](https://graduadosocialred.es/blog/rdl-condiciones-laborales-transparentes-igualdad-retributiva.html)
 - [SMI 2027: el Gobierno aprueba la subida a 1.286 euros al mes, un 5,3 % más](https://graduadosocialred.es/blog/smi-2027-1286-euros-consejo-ministros.html)
 - [Elecciones Generales del 29-N: guía de permisos retribuidos para votar y cargos en mesas electorales](https://graduadosocialred.es/blog/elecciones-generales-29-noviembre-2026-permisos-votar-mesas-electorales.html)
 - [Real Decreto 847/2026: nuevo reglamento del amianto, con un límite de exposición diez veces más bajo y obligación de identificarlo antes de las obras](https://graduadosocialred.es/blog/real-decreto-847-2026-amianto-nuevo-reglamento.html)
