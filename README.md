@@ -22,7 +22,6 @@
 
 ### ⭐ Proyectos destacados
 
-<<<<<<< HEAD
 | Proyecto | Qué es | Con qué |
 |---|---|---|
 | [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 900 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE | Generador estático propio, GitHub Actions |
@@ -31,54 +30,12 @@
 | [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude | PWA, Whisper en el navegador |
 | [**Portfolio «Notas al margen»**](https://github.com/pabloalarconagullo/portfolio) | El texto habla al cliente y, al margen, se anotan las decisiones técnicas | Next.js 16 |
 | [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) · [**Mordoku**](https://mordoku-tawny.vercel.app) | App personal para organizar el día · juego de deducción lógica | PWA · React |
-=======
-| Proyecto | Qué es |
-|---|---|
-| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 900 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
-| [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
-| [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
-| [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
-| [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude |
-| [**Portfolio «Notas al margen»**](https://github.com/pabloalarconagullo/portfolio) | Portfolio de desarrollo web en Next.js 16: el texto habla al cliente y, al margen, se anotan las decisiones técnicas |
->>>>>>> origin/main
 
 ### 🧰 En privado (datos de clientes o uso interno)
 
-<<<<<<< HEAD
 - **Para asesorías laborales:** gestión de expedientes y plazos, control de fijos discontinuos, registro horario, clasificador de notificaciones de LexNET con cálculo de plazos y documento de elementos esenciales del contrato (RD 723/2026).
 - **Normativa y jurisprudencia:** resumen diario del BOE laboral con aviso de convenios y base de jurisprudencia de la Sala Cuarta del Tribunal Supremo con API propia.
 - **Otras apps:** simulador de bolsa con precios reales (Cloudflare Workers + Supabase), comparador de precios para Android, editores PDF locales, «Letra pequeña» (juego diario para adivinar a qué norma del BOE pertenece un artículo) y un asistente personal accesible desde el móvil.
-=======
-**Para asesorías laborales**
-- **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y control de fijos discontinuos (llamamientos y bolsa)
-- **Registro horario**: PWA para fichar, con panel de RRHH
-- **Clasificador de notificaciones**: LexNET, sedes electrónicas y correo, con cálculo de plazos
-- **Elementos esenciales del contrato (RD 723/2026)**: genera el documento informativo que la empresa debe entregar al trabajador
-- **Herramientas laborales en HTML**: altas, despidos, plazos y evaluaciones
-- **Simulador de IRPF**: cálculo y panel de la renta
-- **Colegiación**: checklist y formularios para colegiarse como Graduado Social
-
-**Webs**
-- **Web profesional**: servicios laborales, contador de plazos para reclamar, traductor de nómina y calculadora de indemnización por despido
-- **Web corporativa** para una asesoría fiscal, laboral y contable de Elche
-
-**Normativa y jurisprudencia**
-- **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos y envío por correo
-- **Jurisprudencia social**: base de conocimiento de la Sala Cuarta del Tribunal Supremo y API de sentencias (FastAPI)
-- **LexLaboral**: simulador práctico de Derecho del Trabajo y Procedimiento Laboral
-
-**Utilidades**
-- **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
-- **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
-- **Letra pequeña**: juego diario para adivinar a qué norma del BOE pertenece un artículo
-- **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
-- **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
-
-**Apps y finanzas**
-- **Trading Simulator Pro**: simulador de bolsa personal con precios reales y dinero ficticio
-- **PricePilot**: comparador de precios para Android, con Expo y Supabase
-- **JobPilot AI**: copiloto de búsqueda de empleo (análisis de CV, compatibilidad con ofertas y cartas de presentación)
->>>>>>> origin/main
 
 ### 🛠️ Con qué trabajo
 
