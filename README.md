@@ -20,12 +20,12 @@
 
 | Proyecto | Qué es |
 |---|---|
-| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 900 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
+| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 950 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
 | [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
 | [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
 | [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
 | [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude |
-| [**Portfolio «Notas al margen»**](https://github.com/pabloalarconagullo/portfolio) | Portfolio de desarrollo web en Next.js 16: el texto habla al cliente y, al margen, se anotan las decisiones técnicas |
+| [**Portfolio «Notas al margen»**](https://portfolio-pablo.pabloalarcon.workers.dev) | Portfolio de desarrollo web en Next.js 16: el texto habla al cliente y, al margen, se anotan las decisiones técnicas ([código](https://github.com/pabloalarconagullo/portfolio)) |
 
 ### 🧰 También trabajo en (repos privados)
 
