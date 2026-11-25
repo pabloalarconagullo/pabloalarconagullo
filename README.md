@@ -7,7 +7,7 @@
 ### 📝 Últimos artículos en el blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Permiso por nacimiento de 20 semanas y 10 días por fallecimiento: qué aprueba el Consejo de Ministros y qué falta por saber](https://graduadosocialred.es/blog/permiso-nacimiento-20-semanas-permiso-duelo-10-dias.html)
+- [Real Decreto-ley 42/2026: permiso por nacimiento de 20 semanas y 10 días por duelo](https://graduadosocialred.es/blog/permiso-nacimiento-20-semanas-permiso-duelo-10-dias.html)
 - [Real Decreto-ley 39/2026 de condiciones laborales transparentes e igualdad retributiva: qué cambia en selección, contratos y nóminas](https://graduadosocialred.es/blog/rdl-condiciones-laborales-transparentes-igualdad-retributiva.html)
 - [SMI 2027: el BOE publica la subida a 1.286 euros al mes, un 5,3 % más](https://graduadosocialred.es/blog/smi-2027-1286-euros-consejo-ministros.html)
 - [Elecciones Generales del 29-N: guía de permisos retribuidos para votar y cargos en mesas electorales](https://graduadosocialred.es/blog/elecciones-generales-29-noviembre-2026-permisos-votar-mesas-electorales.html)
