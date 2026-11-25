@@ -41,6 +41,7 @@
 **Webs**
 - **Web profesional**: servicios laborales, contador de plazos para reclamar, traductor de nómina y calculadora de indemnización por despido
 - **Web corporativa** para una asesoría fiscal, laboral y contable de Elche
+- **Web de una bodega** de garnacha: recorrido del vino con animaciones de scroll, mapa interactivo y zona para profesionales, en español e inglés (Astro + GSAP)
 
 **Normativa y jurisprudencia**
 - **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos y envío por correo
