@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Pablo Alarcón Agulló, Graduado Social que programa">
+<defs>
+  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1220"/><stop offset=".55" stop-color="#12284d"/><stop offset="1" stop-color="#1e3a70"/>
+  </linearGradient>
+  <linearGradient id="brillo" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+    <stop offset="0" stop-color="#7dd3fc"/><stop offset=".33" stop-color="#a5b4fc"/><stop offset=".66" stop-color="#f0abfc"/><stop offset="1" stop-color="#7dd3fc"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-600 0;600 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="difuso" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="40"/></filter>
+  <pattern id="puntos" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".07"/></pattern>
+  <clipPath id="marco"><rect width="1000" height="280" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#marco)">
+  <rect width="1000" height="280" fill="url(#fondo)"/>
+  <circle cx="180" cy="60" r="120" fill="#3b82f6" opacity=".35" filter="url(#difuso)">
+    <animate attributeName="cx" values="180;320;180" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="230" r="130" fill="#a855f7" opacity=".30" filter="url(#difuso)">
+    <animate attributeName="cy" values="230;150;230" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <rect width="1000" height="280" fill="url(#puntos)"/>
+  <text x="40" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#93c5fd" opacity="0">§
+    <animate attributeName="y" values="300;-20" dur="9s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+  </text>
+<text x="137" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#93c5fd" opacity="0">{ }
+    <animate attributeName="y" values="300;-20" dur="11s" begin="-1.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="11s" begin="-1.7s" repeatCount="indefinite"/>
+  </text>
+<text x="234" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="19" fill="#93c5fd" opacity="0">Art. 56 ET
+    <animate attributeName="y" values="300;-20" dur="13s" begin="-3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="13s" begin="-3.4s" repeatCount="indefinite"/>
+  </text>
+<text x="331" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#93c5fd" opacity="0">BOE
+    <animate attributeName="y" values="300;-20" dur="15s" begin="-5.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="15s" begin="-5.1s" repeatCount="indefinite"/>
+  </text>
+<text x="428" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#93c5fd" opacity="0">&lt;/&gt;
+    <animate attributeName="y" values="300;-20" dur="9s" begin="-6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="9s" begin="-6.8s" repeatCount="indefinite"/>
+  </text>
+<text x="525" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="19" fill="#93c5fd" opacity="0">LRJS
+    <animate attributeName="y" values="300;-20" dur="11s" begin="-8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="11s" begin="-8.5s" repeatCount="indefinite"/>
+  </text>
+<text x="62" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#93c5fd" opacity="0">§
+    <animate attributeName="y" values="300;-20" dur="13s" begin="-10.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="13s" begin="-10.2s" repeatCount="indefinite"/>
+  </text>
+<text x="159" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#93c5fd" opacity="0">=&gt;
+    <animate attributeName="y" values="300;-20" dur="15s" begin="-11.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="15s" begin="-11.9s" repeatCount="indefinite"/>
+  </text>
+<text x="256" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="19" fill="#93c5fd" opacity="0">LGSS
+    <animate attributeName="y" values="300;-20" dur="9s" begin="-13.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="9s" begin="-13.6s" repeatCount="indefinite"/>
+  </text>
+<text x="353" y="300" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#93c5fd" opacity="0">{ }
+    <animate attributeName="y" values="300;-20" dur="11s" begin="-15.299999999999999s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.28;.28;0" keyTimes="0;.2;.8;1" dur="11s" begin="-15.299999999999999s" repeatCount="indefinite"/>
+  </text>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="60" y="118" font-size="50" font-weight="800" fill="#ffffff" opacity="0">Pablo Alarcón Agulló
+      <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" dur=".9s" begin=".2s" fill="freeze"/>
+    </text>
+    <text x="62" y="166" font-size="28" font-weight="700" fill="url(#brillo)" opacity="0">Graduado Social que programa
+      <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".7s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur=".9s" begin=".7s" fill="freeze"/>
+    </text>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.2s" fill="freeze"/>
+      <rect x="62" y="196" width="176" height="34" rx="17" fill="#ffffff" fill-opacity=".08" stroke="#93c5fd" stroke-opacity=".45"/>
+      <text x="150" y="218" font-size="15" font-weight="600" fill="#dbeafe" text-anchor="middle">Derecho del Trabajo</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.45s" fill="freeze"/>
+      <rect x="250" y="196" width="156" height="34" rx="17" fill="#ffffff" fill-opacity=".08" stroke="#93c5fd" stroke-opacity=".45"/>
+      <text x="328" y="218" font-size="15" font-weight="600" fill="#dbeafe" text-anchor="middle">Seguridad Social</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.7s" fill="freeze"/>
+      <rect x="418" y="196" width="106" height="34" rx="17" fill="#ffffff" fill-opacity=".08" stroke="#93c5fd" stroke-opacity=".45"/>
+      <text x="471" y="218" font-size="15" font-weight="600" fill="#dbeafe" text-anchor="middle">Legal-tech</text></g>
+  </g>
+
+  <!-- Balanza que se dibuja y oscila -->
+  <g transform="translate(840 140)" fill="none" stroke="#bfdbfe" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 -78 V78 M-44 78 H44" stroke-dasharray="210" stroke-dashoffset="210">
+      <animate attributeName="stroke-dashoffset" to="0" dur="1.4s" begin=".3s" fill="freeze"/>
+    </path>
+    <circle cx="0" cy="-84" r="6" fill="#bfdbfe" stroke="none"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-6 0 -70;6 0 -70;-6 0 -70" dur="5s" repeatCount="indefinite"/>
+      <path d="M-82 -70 H82" stroke-dasharray="170" stroke-dashoffset="170">
+        <animate attributeName="stroke-dashoffset" to="0" dur="1s" begin="1s" fill="freeze"/>
+      </path>
+      <g opacity="0"><animate attributeName="opacity" to="1" dur=".8s" begin="1.6s" fill="freeze"/>
+        <path d="M-82 -70 L-108 -10 M-82 -70 L-56 -10 M-112 -10 Q-82 22 -52 -10 Z" fill="#60a5fa" fill-opacity=".25"/>
+        <path d="M82 -70 L56 -10 M82 -70 L108 -10 M52 -10 Q82 22 112 -10 Z" fill="#c084fc" fill-opacity=".25"/>
+        <text x="-82" y="2" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="16" fill="#e0f2fe" stroke="none" text-anchor="middle">§</text>
+        <text x="82" y="2" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, monospace" font-size="14" fill="#f5d0fe" stroke="none" text-anchor="middle">&lt;/&gt;</text>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

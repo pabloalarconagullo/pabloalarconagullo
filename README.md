@@ -1,10 +1,26 @@
-## Hola, soy Pablo 👋
+<div align="center">
 
-**Graduado Social** que programa. Construyo herramientas legal-tech para el día a día del **Derecho del Trabajo y la Seguridad Social**: calculadoras, buscadores de jurisprudencia y normativa, y aplicaciones para asesorías laborales.
+<img src="assets/cabecera.svg" width="100%" alt="Pablo Alarcón Agulló, Graduado Social que programa"/>
 
-🌐 **[graduadosocialred.es](https://graduadosocialred.es)**: web de referencia para Graduados Sociales, con normativa, jurisprudencia, convenios colectivos, calculadoras y blog.
+<img src="assets/escribiendo.svg" width="100%" alt="Calculadoras de despido, nómina y RETA · Más de 900 sentencias comentadas · Resumen diario del BOE laboral · Apps con Expo, Next.js y Supabase · Datos de clientes: siempre en local"/>
 
-### 📝 Últimos artículos en el blog
+[![Web](https://img.shields.io/badge/graduadosocialred.es-1e3a70?style=for-the-badge&logo=googlechrome&logoColor=white)](https://graduadosocialred.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alarconagullopablo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=cloudflare&logoColor=white)](https://portfolio-pablo.pabloalarcon.workers.dev)
+
+</div>
+
+## 👋 Sobre mí
+
+Llevo el día a día del **Derecho del Trabajo y la Seguridad Social** a herramientas que se usan de verdad: calculadoras, buscadores de jurisprudencia y normativa, simuladores para aprender y aplicaciones para asesorías laborales.
+
+- ⚖️ **Conozco el problema desde dentro:** plazos, nóminas, despidos, convenios y notificaciones.
+- 🛠️ **Lo resuelvo con código:** TypeScript, React/Next.js, Node, Python y Supabase.
+- 🔒 **Cuando hay datos de clientes,** en local y sin subir nada a terceros.
+
+<div align="center"><img src="assets/cifras.svg" width="100%" alt="Más de 900 sentencias comentadas, 20 calculadoras laborales, resumen diario del BOE y más de 25 proyectos propios"/></div>
+
+## 📝 Últimos artículos en el blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Calendario laboral 2027: festivos de cada comunidad, puentes y cómo preparar el calendario de la empresa](https://graduadosocialred.es/blog/calendario-laboral-2027-festivos.html)
@@ -16,65 +32,69 @@
 
 ➡️ [Ver todo el blog](https://graduadosocialred.es/blog/)
 
-### 🔨 Proyectos destacados
+## ⭐ Proyectos destacados
 
-| Proyecto | Qué es |
-|---|---|
-| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 950 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE |
-| [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos (Expo + Supabase) |
-| [**Mordoku**](https://mordoku-tawny.vercel.app) | ¿Quién ha matado a Dodi? Juego de deducción lógica |
-| [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) | App personal para organizar el día desde el móvil |
-| [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude |
-| [**Portfolio «Notas al margen»**](https://portfolio-pablo.pabloalarcon.workers.dev) | Portfolio de desarrollo web en Next.js 16: el texto habla al cliente y, al margen, se anotan las decisiones técnicas ([código](https://github.com/pabloalarconagullo/portfolio)) |
+| Proyecto | Qué es | Con qué |
+|---|---|---|
+| [**Graduado Social Red**](https://graduadosocialred.es) | Normativa laboral, más de 900 sentencias comentadas, convenios del BOE, calculadoras (despido, nómina, RETA, jubilación…) y resumen diario del BOE | Generador estático propio, GitHub Actions |
+| [**All4Plans**](https://pabloalarconagullo.github.io/all4plans/) | App móvil para organizar planes en grupo y repartir gastos | Expo, Supabase |
+| [**Actas**](https://github.com/pabloalarconagullo/actas) | Actas de reunión: transcripción local con Whisper y redacción con Claude | PWA, Whisper en el navegador |
+| [**Portfolio «Notas al margen»**](https://portfolio-pablo.pabloalarcon.workers.dev) | El texto habla al cliente y, al margen, se anotan las decisiones técnicas ([código](https://github.com/pabloalarconagullo/portfolio)) | Next.js 16, Cloudflare |
+| [**Mi Día**](https://pabloalarconagullo.github.io/mi-dia/) · [**Mordoku**](https://mordoku-tawny.vercel.app) | App personal para organizar el día · ¿Quién ha matado a Dodi? Juego de deducción lógica | PWA · React |
 
-### 🧰 También trabajo en (repos privados)
+<details>
+<summary><b>🧰 Y en privado (datos de clientes o uso interno): pulsa para verlos</b></summary>
+<br>
 
 **Para asesorías laborales**
-- **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y control de fijos discontinuos (llamamientos y bolsa)
+- **Gestión de asesoría laboral**: empresas, trabajadores, expedientes, plazos legales, alertas y control de fijos discontinuos
 - **Registro horario**: PWA para fichar, con panel de RRHH
 - **Clasificador de notificaciones**: LexNET, sedes electrónicas y correo, con cálculo de plazos
-- **Elementos esenciales del contrato (RD 723/2026)**: genera el documento informativo que la empresa debe entregar al trabajador
-- **Herramientas laborales en HTML**: altas, despidos, plazos y evaluaciones
-- **Simulador de IRPF**: cálculo y panel de la renta
-- **Colegiación**: checklist y formularios para colegiarse como Graduado Social
-
-**Webs**
-- **Web profesional**: servicios laborales, contador de plazos para reclamar, traductor de nómina y calculadora de indemnización por despido
-- **Web corporativa** para una asesoría fiscal, laboral y contable de Elche
-- **Web de una bodega** de garnacha: recorrido del vino con animaciones de scroll, mapa interactivo y zona para profesionales, en español e inglés (Astro + GSAP)
+- **Elementos esenciales del contrato (RD 723/2026)**: genera el documento informativo para el trabajador
+- **Simulador de IRPF**, **herramientas laborales en HTML** y **checklist de colegiación**
 
 **Normativa y jurisprudencia**
-- **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos y envío por correo
-- **Jurisprudencia social**: base de conocimiento de la Sala Cuarta del Tribunal Supremo y API de sentencias (FastAPI)
-- **LexLaboral**: simulador práctico de Derecho del Trabajo y Procedimiento Laboral
-
-**Utilidades**
-- **Editores PDF locales**: editar, firmar, OCR y comprimir sin subir documentos a internet
-- **Reacción inversa**: puzle diario de lógica en el navegador, sin dependencias
+- **Resumen diario del BOE** en materia laboral, con aviso de convenios colectivos
+- **Jurisprudencia social**: base de la Sala Cuarta del Tribunal Supremo con API propia (FastAPI)
+- **LexLaboral**: simulador práctico de Derecho del Trabajo, con expedientes ficticios de principio a fin
 - **Letra pequeña**: juego diario para adivinar a qué norma del BOE pertenece un artículo
-- **JARVIS**: asistente personal con FastAPI y PWA en React, accesible desde el móvil
-- **Panel de proyectos**: cuota de GitHub Actions, despliegues y renovaciones de un vistazo
 
-**Apps y finanzas**
-- **Trading Simulator Pro**: simulador de bolsa personal con precios reales y dinero ficticio
-- **PricePilot**: comparador de precios para Android, con Expo y Supabase
-- **JobPilot AI**: copiloto de búsqueda de empleo (análisis de CV, compatibilidad con ofertas y cartas de presentación)
+**Webs**
+- **Web profesional** de servicios laborales, **web corporativa** de una asesoría de Elche y **web de una bodega** de garnacha con animaciones de scroll (Astro + GSAP)
 
-### 🛠️ Con qué trabajo
+**Apps y utilidades**
+- **Trading Simulator Pro**: bolsa con precios reales y dinero ficticio (Cloudflare Workers + Supabase)
+- **PricePilot**: comparador de precios para Android · **JobPilot AI**: copiloto de búsqueda de empleo
+- **JARVIS**: asistente personal accesible desde el móvil · **Editores PDF locales** · **Reacción inversa** · **Panel de proyectos**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+</details>
 
-### 📫 Contacto
+## 🛠️ Con qué trabajo
 
-- 🌐 [graduadosocialred.es](https://graduadosocialred.es)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alarconagullopablo/)
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pabloalarconagullo/pabloalarconagullo/output/serpiente-oscura.svg"/>
+  <img src="https://raw.githubusercontent.com/pabloalarconagullo/pabloalarconagullo/output/serpiente.svg" width="100%" alt="Serpiente que recorre el gráfico de contribuciones"/>
+</picture>
+</div>
+
+<img src="assets/pie.svg" width="100%" alt="Gracias por pasarte"/>

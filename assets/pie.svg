@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Gracias por pasarte">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1e3a70"/><stop offset=".5" stop-color="#4f46e5"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+<path fill="url(#g)" opacity=".45" d="M0 60 C 150 30 350 90 500 60 S 850 30 1000 60 V120 H0 Z"><animate attributeName="d" values="M0 60 C 150 30 350 90 500 60 S 850 30 1000 60 V120 H0 Z;M0 60 C 150 90 350 30 500 60 S 850 90 1000 60 V120 H0 Z;M0 60 C 150 30 350 90 500 60 S 850 30 1000 60 V120 H0 Z" dur="8s" repeatCount="indefinite"/></path>
+<path fill="url(#g)" d="M0 60 C 150 78 350 42 500 60 S 850 78 1000 60 V120 H0 Z" transform="translate(0 14)"><animate attributeName="d" values="M0 60 C 150 78 350 42 500 60 S 850 78 1000 60 V120 H0 Z;M0 60 C 150 42 350 78 500 60 S 850 42 1000 60 V120 H0 Z;M0 60 C 150 78 350 42 500 60 S 850 78 1000 60 V120 H0 Z" dur="6s" repeatCount="indefinite"/></path>
+<text x="500" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Gracias por pasarte · ¿Hablamos? graduadosocialred.es</text>
+</svg>

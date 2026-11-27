@@ -1,0 +1,29 @@
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # cada día a las 06:30 UTC, después de los artículos
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/serpiente.svg?palette=github-light&color_snake=#6d28d9&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#818cf8,#4f46e5
+            dist/serpiente-oscura.svg?palette=github-dark&color_snake=#c084fc&color_dots=#161b22,#1e3a8a,#1d4ed8,#3b82f6,#93c5fd
+      # La animación se publica en la rama «output», no en main
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Actualizar la serpiente de contribuciones"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
