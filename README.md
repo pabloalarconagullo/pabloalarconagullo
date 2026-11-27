@@ -23,11 +23,11 @@ Llevo el día a día del **Derecho del Trabajo y la Seguridad Social** a herrami
 ## 📝 Últimos artículos en el blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Paga extra de Navidad 2026: cuándo se cobra, cuánto corresponde y cómo se calcula](https://graduadosocialred.es/blog/paga-extra-navidad-2026-cuando-se-cobra-calculo.html)
+- [Vacaciones sin disfrutar a 31 de diciembre: cuándo se pierden y cuándo se pueden pasar al año siguiente](https://graduadosocialred.es/blog/vacaciones-no-disfrutadas-31-diciembre-se-pierden.html)
+- [Trabajar en Navidad 2026: festivos de diciembre y enero, Nochebuena, Nochevieja y cómo se pagan](https://graduadosocialred.es/blog/trabajar-festivos-navidad-2026-nochebuena-nochevieja.html)
 - [Calendario laboral 2027: festivos de cada comunidad, puentes y cómo preparar el calendario de la empresa](https://graduadosocialred.es/blog/calendario-laboral-2027-festivos.html)
 - [Real Decreto-ley 42/2026: permiso por nacimiento de 20 semanas y 10 días por duelo](https://graduadosocialred.es/blog/permiso-nacimiento-20-semanas-permiso-duelo-10-dias.html)
-- [Real Decreto-ley 39/2026 de condiciones laborales transparentes e igualdad retributiva: qué cambia en selección, contratos y nóminas](https://graduadosocialred.es/blog/rdl-condiciones-laborales-transparentes-igualdad-retributiva.html)
-- [SMI 2027: el BOE publica la subida a 1.286 euros al mes, un 5,3 % más](https://graduadosocialred.es/blog/smi-2027-1286-euros-consejo-ministros.html)
-- [Elecciones Generales del 29-N: guía de permisos retribuidos para votar y cargos en mesas electorales](https://graduadosocialred.es/blog/elecciones-generales-29-noviembre-2026-permisos-votar-mesas-electorales.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Ver todo el blog](https://graduadosocialred.es/blog/)
